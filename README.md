@@ -21,7 +21,7 @@ NY.
 Written by: Subhadeep Koley
 CC BY-NC-ND license 2021
 
--------------------------------------------------------------------------
+---------------------------------------------------------------------
 
 IHENON2.M Decrypt an image using Henons' chaotic map
 DEIMG = IHENON(IMG, KEY) decrypts input grayscale IMG using Henon map
